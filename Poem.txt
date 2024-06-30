@@ -1,2 +1,3 @@
 Hello world!
 Commit changes
+New branch test
